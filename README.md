@@ -31,6 +31,7 @@ Many small and medium businesses still rely on manual registers or Excel sheets 
 Lack of real-time visibility
 
 This system digitizes the entire process, making inventory tracking accurate, fast, and reliable.
+
 📸 Application Preview
 
 
