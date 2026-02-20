@@ -31,13 +31,11 @@ Many small and medium businesses still rely on manual registers or Excel sheets 
 Lack of real-time visibility
 
 This system digitizes the entire process, making inventory tracking accurate, fast, and reliable.
-
-
 📸 Application Preview
+
+
 ![image alt](https://github.com/muhammad-ali-apps/inventory-management-system/blob/7c0dd00fb680bf5deb46f28a9b6c441162d1aa8c/Window%20Application.png)
 
 
 
-VS Code
 
-📸 Application Preview
